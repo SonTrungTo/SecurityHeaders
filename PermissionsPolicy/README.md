@@ -1,0 +1,16 @@
+- Restrict what features we can add and
+we can embed on the site.
+- Allow values:
+    - geolocation
+    - midi
+    - notifications
+    - push
+    - sync-xhr
+    - microphone
+    - camera
+    - magnetometer
+    - gyroscope
+    - speaker
+    - vibrate
+    - fullscreen
+    - payment
